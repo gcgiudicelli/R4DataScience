@@ -1,0 +1,19 @@
+data science: importar > arrumar > tranformar / visualizar / modelar (entender) > comunicar
+
+data wrangling: arrumação + transofrmação
+
+visualização: requer humano/a para interpretação
+modelos: matemáticos/computacionais
+
+para trabalhar com dados maiores (10 a 100Gb) > data.table (http://bit.ly/Rdatatable)
+
+dados retangulares: coleções de valores que são associadas com uma variável e uma observação
+
+análise de dados: geração de hipóteses / confirmação de hipóteses (análise confirmatória)
+
+Hand-On Programming with R ()
+
+CRAN, comprehensive R archive network: conjunto de servidores-espelho distribuídos pelo mundo usado para distribuir o R e seus pacotes.
+não tente escolher um servidor próximo a você (#chocada, sempre escolhi), uso o espelho em nuvem (https://cloud.r-project.org) para descobrir automaticamente.
+
+download dos pacotes tidyverse, nycflights13 (dados de voos de linhas aéres), gapminder (desenvolvimento mundial) e Lahman (baseball.)
