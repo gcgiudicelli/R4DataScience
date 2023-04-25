@@ -1,0 +1,11 @@
+AJUDA
+> Google (alguém provavelmente já teve o mesmo erro que vc); add "R" a uma busca para restringí-la
+se a msg de erro não estiver em inglês, execute Sys.setenv(LANGUAGE = "en") e execute o código novamente
+> Stackoverflow (http://stackeoverflow.com); incluir [R] restringe sua busca
+coisas para incluir e deixar seu exemplo reprodudível: pacotes, dados (usar dput() para gerar o código R e recriá-lo), variáveis com nomes informativos, usar comentários
+
+DICAS
+> blog do RStudio (https://blog.rstudio.org)
+> @hadleywickham, @statgarrett, @rstuiotips
+> www.r-blogger.com
+> #rstats (Twitter)
